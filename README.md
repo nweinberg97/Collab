@@ -73,6 +73,10 @@ Also included: onboarding (“Analyzing your sound…”), artist profiles, natu
 
 ## The demo
 
+**Live:** <https://nweinberg97.github.io/Collab/>. Every push to `main` rebuilds and redeploys it through GitHub Actions (`.github/workflows/pages.yml`).
+
+To run it locally:
+
 ```bash
 npm install
 npm run dev        # http://127.0.0.1:5173
